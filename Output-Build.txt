@@ -1,0 +1,6 @@
+﻿Build started at 0:04...
+1>------ Build started: Project: Labaratorna robota 3.2, Configuration: Debug x64 ------
+1>Labaratorna robota 3.2.cpp
+1>Labaratorna robota 3.2.vcxproj -> C:\Users\Compik_2\source\repos\Labaratorna robota 3.2\x64\Debug\Labaratorna robota 3.2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 0:05 and took 05,258 seconds ==========
